@@ -8,7 +8,7 @@ You can download the plugin from GitHub.
 In the page's footer, just before, include the required JavaScript files.
 
 ```
-<script src="js/inline-edit.min.js"></script>
+<script src="js/edit-inline.min.js"></script>
 ```
 
 ### 3. Create the HTML markup
